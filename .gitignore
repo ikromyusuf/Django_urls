@@ -238,7 +238,7 @@ Thumbs.db
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.env
+.venv
 pip-selfcheck.json
 
 ### VisualStudioCode ###
